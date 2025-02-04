@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+  background-color: aliceblue;
+    display: flex;
+   
+    margine-top: 20px;
+}
+.card
+{
+    background-color: tomato;
+    border: 1px solid black;
+    margine:0 10px 10px 10px;
+}
+.card
+{
+   background-color: whitesmoke;
+   border: 1px solid black;
+   margine:0 10px 10px 10px;
+}
+
+
+
+
+.container
+{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
